@@ -22,7 +22,8 @@ By combining advanced *Random Forest Classification* with cybersecurity domain k
 )
 
 ### Result 2
-![Result](https://drive.google.com/file/d/1T3sFyQ9GXapE6_2ivJ866aEqnROrO9dS/view?usp=drive_link)
+![Result](https://drive.google.com/uc?export=view&id=1rNMFrCj3tWaoDedDMvBjwNzVNqOJkpZQ
+)
 
 
 ---
