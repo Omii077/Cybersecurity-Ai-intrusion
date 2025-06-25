@@ -1,4 +1,4 @@
-# 🛡 AI-Enhanced Intrusion Detection System (IDS)  
+  # 🛡 AI-Enhanced Intrusion Detection System (IDS)  
 ### Cybersecurity Threat Detection Using Machine Learning
 
 ---
@@ -14,13 +14,13 @@ By combining advanced *Random Forest Classification* with cybersecurity domain k
 ## Output Screenshots
 
 ### Landing Page
-![Homepage](https://drive.google.com/uc?export=view&id=1rzTLr9ovOKFGxVpWdJdW3tLM4G7uCmqb)
+![Homepage](https://drive.google.com/file/d/1PlGwdE_Fa2m3IZT-VT7Fooorxo51dybD/view?usp=drive_link)
 
 ### Result 1
-![Result](https://drive.google.com/uc?export=view&id=1yMtyhShok9n3rdWZZbE2eLB7gCIixkif)
+![Result](https://drive.google.com/file/d/1rNMFrCj3tWaoDedDMvBjwNzVNqOJkpZQ/view?usp=drive_link)
 
 ### Result 2
-![Result](https://drive.google.com/uc?export=view&id=1mkRYU239TZehRSEf2wJR6wpj7UGhAa-R)
+![Result](https://drive.google.com/file/d/1T3sFyQ9GXapE6_2ivJ866aEqnROrO9dS/view?usp=drive_link)
 
 
 ---
